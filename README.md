@@ -1,1 +1,1 @@
-# mapty-app
+# A map project for locations
